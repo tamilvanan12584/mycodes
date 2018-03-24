@@ -16,15 +16,15 @@ int main()
   printf("a/b= %d\n",a/b);
   if (a>b)
   {
-  printf("a>b = True a is big");
-    }
+    printf("a>b = True a is big");
+  }
   else if (a<b)
   {
-  printf("b>a = True b is big");
-    }
+    printf("b>a = True b is big");
+  }
   else if (a=b)
   {
-  printf("a=b a and b is equal");
-      }
-return 0;
+    printf("a=b a and b is equal");
   }
+  return 0;
+}
