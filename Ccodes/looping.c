@@ -51,8 +51,9 @@ int main()
     }
     break;
     default:
-    printf("Enter Wrong Input\n");
+    printf("Enter Wrong Input and modified \n");
     break;
   }
   return 0;
+
 }
