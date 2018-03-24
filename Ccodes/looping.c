@@ -51,7 +51,7 @@ int main()
     }
     break;
     default:
-    printf("Enter Wrong Input and modified \n");
+    printf("Enter Wrong Input and modified. and it shoud update \n");
     break;
   }
   return 0;
